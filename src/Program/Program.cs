@@ -11,3 +11,11 @@ public class Division
         return (double)a / b;
     }
 }
+// Esta clase implementa la operación Resta>
+public class Substraction
+{
+    public static int Substract(int a, int b)
+    {
+        return a - b;
+    }
+}
