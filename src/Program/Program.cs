@@ -10,6 +10,15 @@ public class Multiplication
     }
 }
 
+
+//Esta clase implementa la operación feature-addition
+public class Addition
+{
+    public static int Add(int a, int b)
+    {
+        return a + b;
+    }
+}
 // Esta clase implementa la operación división
 public class Division
 {
